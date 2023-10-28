@@ -1,0 +1,30 @@
+.header {
+    background-color: #FAFAFA;
+    margin-left: 150px;
+}
+
+.header-title {
+    color: #121212;
+    font-family: Inter;
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 120px;
+
+}
+
+.header-description {
+    color: #707070;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #FF5959;
+    color: #FAFAFA;
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 40px;
+}
